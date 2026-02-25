@@ -1,5 +1,11 @@
+![logo](https://github.com/arshsaifi454/arshsaifi454/blob/main/header_gif.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm arsh saifi</h1>
 <h3 align="center">a passionate data analyst from india</h3>
+
+<img align="right" alt="Kryptora" width="400" src="https://github.com/arshsaifi454/arshsaifi454/blob/main/programmer.gif">
 
 - 🔭 I’m currently working on **pizza hut**
 
